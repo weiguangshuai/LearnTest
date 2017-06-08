@@ -2,17 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="495b2ae7-2cf9-4953-b073-924f325e26c6" name="Default" comment="j">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Callbacks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/ClassInInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/DotNew.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/DotThis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Games.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Parcel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Parcel2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Sequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/polymorphism/RTTI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Controller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Event.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/BMPGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/DynamicFields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/HoHumException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/ImportantException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/InheritingExceptions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/LostMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/SimpleException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callbacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callee1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callee2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callee2$Closure.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callee2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Caller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Checkers$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Checkers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Chess$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Chess.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/ClassInInterface$Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/ClassInInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/DotNew$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/DotNew.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/DotThis$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/DotThis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Game.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/GameFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Games.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Incrementable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/MyIncrement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel$Contents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel$Destination.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Selector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Sequence$SequenceSelector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Sequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Wrapping.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/ABCDTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/ADemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/AnimalTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/CDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/HiddenC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/HiddenImplementation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/Implementation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/MethodSelector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/SelectingMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/SomeMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/String/Conversion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/String/PatternTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/String/Turtle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/AutoBoxingArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator$Booleans.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator$Bytes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator$Character.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator$Strings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/GeneratorsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/GameCharacter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/date0605/MyRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/date0605/ThreadTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/p444.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/p454/ReadFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/p484/DailyAdviceService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/p484/SimpleChatClientA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/AnimalsReverseOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Carnivore.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Chapter8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/ChineseCalendar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/EnglishCalendar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Game.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/GermanCalendar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/LocalDateTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/MonthCalendars.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/SpanishCalendar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Temperature.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/exp1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Adapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Addable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/AddableCollectionAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Apple.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Apply.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/ApplyTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/BankTeller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Charactor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/CovariantArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Customer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Customer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Fill2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Fill2Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/FilledList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Fruit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Generator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/GenericsAndCovariance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/HasF.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Jonathan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/LinkedStack$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/LinkedStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Manipulation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Manipulator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Orange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Shape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Square.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Teller$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Teller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/polymorphism/MoreUsefull.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/polymorphism/RTTI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/polymorphism/Usefull.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/test/TestReflect.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cqupt/text/array/GeneratorsTest.java" afterPath="$PROJECT_DIR$/src/com/cqupt/text/array/GeneratorsTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,16 +142,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RTTI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/polymorphism/RTTI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Sequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Sequence.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,17 +198,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Callbacks.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Callbacks.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Callbacks.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-44">
-              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding>
                 <element signature="e#746#747#0" expanded="true" />
                 <element signature="e#1403#1404#0" expanded="true" />
                 <element signature="e#1457#1458#0" expanded="true" />
                 <element signature="e#1474#1475#0" expanded="true" />
                 <element signature="e#1519#1520#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Event.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Event.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,18 +262,6 @@
                 <element signature="e#923#924#0" expanded="true" />
                 <element signature="e#1339#1340#0" expanded="true" />
                 <element signature="e#1397#1398#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comparable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk/src.zip!/java/lang/Comparable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="95" column="9" lean-forward="false" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#5812#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -181,8 +295,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Exception/DynamicFields.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Exception/ImportantException.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/Exception/HoHumException.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/Exception/stormyInning.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/Exception/LostMessage.java" />
@@ -232,6 +344,8 @@
         <option value="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Games.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/ClassInInterface.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Callbacks.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Event.java" />
       </list>
     </option>
   </component>
@@ -310,6 +424,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InnerClass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InnerClass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -867,12 +1029,12 @@
       <workItem from="1496882191753" duration="11176000" />
       <workItem from="1496919976950" duration="31000" />
       <workItem from="1496920167901" duration="8974000" />
-      <workItem from="1496932698774" duration="1287000" />
+      <workItem from="1496932698774" duration="1771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171771000" />
+    <option name="totallyTimeSpent" value="172255000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -885,7 +1047,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -902,7 +1063,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29727685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29727685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -992,20 +1153,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/RTTI/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/RTTI/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/RTTI/AnimalTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1360,13 +1507,37 @@
     <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/InnerClass/Callbacks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-44">
-          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding>
             <element signature="e#746#747#0" expanded="true" />
             <element signature="e#1403#1404#0" expanded="true" />
             <element signature="e#1457#1458#0" expanded="true" />
             <element signature="e#1474#1475#0" expanded="true" />
             <element signature="e#1519#1520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
           </folding>
         </state>
       </provider>

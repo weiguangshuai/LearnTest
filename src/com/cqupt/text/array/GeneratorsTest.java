@@ -5,7 +5,7 @@ import com.cqupt.text.generic.Generator;
 /**
  * @author weigs
  * @date 2017/6/4 0004
- */
+*/
 public class GeneratorsTest {
 
     public static int size = 10;

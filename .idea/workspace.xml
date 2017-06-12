@@ -2,60 +2,260 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="495b2ae7-2cf9-4953-b073-924f325e26c6" name="Default" comment="j">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/GreenhouseController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/GreenhouseControls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/ADaemon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/CacheThreadPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/CallableDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/DaemonFromFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/DaemonThreadFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/LiftOff.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/SingleThreadExecutor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/TaskWithResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Priority/SimpleDaemons.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/Priority/SimplePriorities.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/exception/CaptureUncaughtException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/exception/ExceptionThread2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/join/Joiner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/join/Joining.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/Thread/join/Sleeper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/CountOperate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/CountOperateTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/ExceptionThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/YieldDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/priority/MyThread1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/priority/MyThread2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/priority/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion1Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion1ThreadB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion2ThreadB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3ThreadB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclution1ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclution2ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/MyObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/dirtyread/PublicVar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/dirtyread/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/dirtyread/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/HasSelfPrivateNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/HasSelfPrivateNumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/Service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ServiceThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/Task.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/TaskTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/TaskThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/TaskThreadB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/BMPGraph.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/DynamicFields.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/HoHumException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/ImportantException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/InheritingExceptions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/LostMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Exception/SimpleException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callbacks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callee1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callee2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callee2$Closure.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Callee2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Caller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Checkers$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Checkers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Chess$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Chess.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/ClassInInterface$Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/ClassInInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/DotNew$Inner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/DotNew.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/DotThis$Inner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/DotThis.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Game.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/GameFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Games.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Incrementable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/MyIncrement.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel$Contents.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel$Destination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Parcel2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Selector.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Sequence$SequenceSelector.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Sequence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/Wrapping.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/Controller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/Event.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls$Bell.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls$LightOff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls$LightOn.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls$Restart.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls$Terminate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls$ThermostatDay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls$ThermostatNight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls$WaterOff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls$WaterOn.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/InnerClass/controller/GreenhouseControls.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/A.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/ABCDTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/ADemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/Animal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/AnimalTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/B.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/C.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/CDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/D.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/HiddenC.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/HiddenImplementation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/Implementation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/MethodSelector.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/SelectingMethods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/RTTI/SomeMethods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/String/Conversion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/String/PatternTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/String/Turtle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Executor/ADaemon.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Executor/CacheThreadPool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Executor/CallableDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Executor/DaemonFromFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Executor/DaemonThreadFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Executor/DaemondDontRunFinally.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Executor/LiftOff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Executor/SingleThreadExecutor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Executor/TaskWithResult.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Priority/SimpleDaemons.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/Priority/SimplePriorities.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/exception/CaptureUncaughtException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/exception/ExceptionThread2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/exception/HanderThreadFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/exception/MyUncaughtExceptionHander.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/join/Joiner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/join/Joining.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/Thread/join/Sleeper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/AutoBoxingArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator$Booleans.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator$Bytes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator$Character.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator$Strings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/CountingGenerator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/array/GeneratorsTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/GameCharacter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/data0612/p531.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/date0605/MyRunnable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/date0605/ThreadTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/p444.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/p454/ReadFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/p484/DailyAdviceService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/book/p484/SimpleChatClientA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Animal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/AnimalsReverseOrder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Carnivore.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Chapter8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/ChineseCalendar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/EnglishCalendar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Game.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/GermanCalendar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/LocalDateTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/MonthCalendars.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/SpanishCalendar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/Temperature.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/exp/exp1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Adapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Addable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/AddableCollectionAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Apple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Apply.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/ApplyTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/BankTeller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Charactor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/CovariantArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Customer$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Customer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Fill2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Fill2Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/FilledList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Fruit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Generator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/GenericsAndCovariance.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/HasF.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Jonathan.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/LinkedStack$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/LinkedStack.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Manipulation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Manipulator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Orange.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Shape.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Square.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Teller$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/generic/Teller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/CountOperate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/CountOperateTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/ExceptionRun.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/ExceptionThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/MyThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/Run.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/YieldDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/YieldThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/priority/MyThread1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/priority/MyThread2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter1/priority/test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion1Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion1ThreadB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion2Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion2ThreadB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3ThreadA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3ThreadB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclution1ThreadA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclution2ThreadA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/conclusion/MyObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/deadlock/DealThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/deadlock/Run.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/dirtyread/PublicVar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/dirtyread/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/dirtyread/ThreadA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass$Inner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass1$InnterClass1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass1$InnterClass2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run1$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/Service.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceThreadA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceThreadB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/HasSelfPrivateNum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/HasSelfPrivateNumTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/Service.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ServiceTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ServiceThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/Task.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/TaskTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/TaskThreadA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/TaskThreadB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ThreadA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ThreadB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/AddCountThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/AddCountThreadTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/PrintString.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/Run.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/Test/Test1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/Test/Test2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/communication/MyThread1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/communication/MyThread2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/communication/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/MyList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/Run.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Custom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Product.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Run.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadC.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadP.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ValueObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/polymorphism/MoreUsefull.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/polymorphism/RTTI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/polymorphism/Usefull.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GraphTest/com/cqupt/text/test/TestReflect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/book/data0612/p531.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/deadlock/DealThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/deadlock/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/AddCountThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/AddCountThreadTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/PrintString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/Test/Test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/Test/Test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/MyThread1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/MyThread2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/MyList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Custom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ValueObject.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Controller.java" afterPath="$PROJECT_DIR$/src/com/cqupt/text/InnerClass/controller/Controller.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,116 +277,114 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyObject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/MyObject.java">
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+            <state relative-caret-position="374">
+              <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conclusion2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion2.java">
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="111">
+              <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conclution2ThreadA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclution2ThreadA.java">
+      <file leaf-file-name="p531.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/book/data0612/p531.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="286">
+              <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
               <folding>
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conclusion2ThreadB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion2ThreadB.java">
+      <file leaf-file-name="Custom.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Custom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="308">
+              <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding>
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conclusion2Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion2Test.java">
+      <file leaf-file-name="ThreadP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="132">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conclusion3ThreadB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3ThreadB.java">
+      <file leaf-file-name="ThreadC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding>
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThread2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/MyThread2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-              <folding>
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conclusion3Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <caret line="17" column="76" lean-forward="false" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conclusion3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3.java">
+      <file leaf-file-name="ValueObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ValueObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conclusion3ThreadA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3ThreadA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-              <folding>
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conclution1ThreadA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclution1ThreadA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            <state relative-caret-position="132">
+              <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -221,36 +419,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/CacheThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/SingleThreadExecutor.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/TaskWithResult.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/CallableDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/Priority/SimplePriorities.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/Priority/SimpleDaemons.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/DaemonThreadFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/DaemonFromFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/ADaemon.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/join/Sleeper.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/join/Joiner.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/join/Joining.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/exception/EvenChecker.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/exception/ExceptionThread2.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/Thread/exception/CaptureUncaughtException.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/CountOperateTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/CountOperate.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/ExceptionThread.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/YieldDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/priority/MyThread1.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/priority/MyThread2.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/priority/test.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/HasSelfPrivateNumTest.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/HasSelfPrivateNum.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/dirtyread/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/dirtyread/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/dirtyread/PublicVar.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/Service.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ServiceThread.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ServiceTest.java" />
@@ -272,6 +440,36 @@
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3ThreadA.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3ThreadB.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3Test.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/deadlock/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/deadlock/DealThread.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run1.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass1.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/PrintString.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/AddCountThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/AddCountThread.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/Test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/Test/Test2.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/MyThread1.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/MyThread2.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/MyList.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ValueObject.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Custom.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadP.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadC.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/book/data0612/p531.java" />
       </list>
     </option>
   </component>
@@ -308,8 +506,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -376,7 +572,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter2" />
+              <option name="myItemId" value="Chapter3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multithreadpro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customANDproduct" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multithreadpro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="communication" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -404,13 +660,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ibiox1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../study/mongodb" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1496973" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -427,15 +685,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Conclusion3Test">
-    <configuration default="false" name="ServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.p531">
+    <configuration default="false" name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter2.synchroniz.*" />
+          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter3.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter2.synchroniz.ServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter3.Test.Test2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -448,14 +706,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TaskTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter2.synchroniz.*" />
+          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter3.communication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter2.synchroniz.TaskTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter3.communication.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -468,14 +726,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Conclusion1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter2.conclusion.*" />
+          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter3.communication.sizeDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter2.conclusion.Conclusion1Test" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter3.communication.sizeDemo.Run" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -488,14 +746,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Conclusion2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter2.conclusion.*" />
+          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter3.customANDproduct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter2.conclusion.Conclusion2Test" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter3.customANDproduct.Run" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -508,14 +766,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Conclusion3Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="p531" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter2.conclusion.*" />
+          <option name="PATTERN" value="com.cqupt.text.book.data0612.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter2.conclusion.Conclusion3Test" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.book.data0612.p531" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -836,6 +1094,28 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -893,19 +1173,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ServiceTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TaskTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Conclusion1Test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Conclusion2Test" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Conclusion3Test" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Run (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Run" />
+      <item index="4" class="java.lang.String" itemvalue="Application.p531" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Conclusion3Test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Conclusion2Test" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Conclusion1Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TaskTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ServiceTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.p531" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Run" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Run (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -960,12 +1240,17 @@
       <workItem from="1496920167901" duration="8974000" />
       <workItem from="1496932698774" duration="3257000" />
       <workItem from="1496975342241" duration="36900000" />
-      <workItem from="1497050702697" duration="7976000" />
+      <workItem from="1497050702697" duration="12592000" />
+      <workItem from="1497082020154" duration="5760000" />
+      <workItem from="1497139905241" duration="560000" />
+      <workItem from="1497147923139" duration="9461000" />
+      <workItem from="1497171328282" duration="9682000" />
+      <workItem from="1497224065843" duration="655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218617000" />
+    <option name="totallyTimeSpent" value="249351000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -989,12 +1274,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3622951" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19672132" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48032787" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30181542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23827533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1033,9 +1318,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37704918" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30181542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66885245" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3192133" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -1075,7 +1360,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1084,321 +1369,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/CallableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/Priority/SimpleDaemons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/Priority/SimplePriorities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#397#398#0" expanded="false" />
-            <element signature="e#875#876#0" expanded="false" />
-            <element signature="e#939#940#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/concurrent/ThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="67" column="32" lean-forward="false" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/DaemonThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/DaemonFromFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="28" column="49" lean-forward="false" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/Executor/ADaemon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/join/Joining.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/join/Joiner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/exception/EvenChecker.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/exception/CaptureUncaughtException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/join/Sleeper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/Thread/exception/ExceptionThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/CountOperateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/CountOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/ExceptionThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/YieldDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/priority/MyThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/priority/MyThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter1/priority/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#252#253#0" expanded="false" />
-            <element signature="e#310#311#0" expanded="false" />
-            <element signature="e#335#336#0" expanded="false" />
-            <element signature="e#377#378#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#252#253#0" expanded="false" />
-            <element signature="e#310#311#0" expanded="false" />
-            <element signature="e#377#378#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/HasSelfPrivateNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/HasSelfPrivateNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/dirtyread/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/dirtyread/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <element signature="e#220#221#0" expanded="false" />
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#332#333#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/dirtyread/PublicVar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ServiceThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/ServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/TaskThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#207#208#0" expanded="false" />
-            <element signature="e#239#240#0" expanded="false" />
-            <element signature="e#264#265#0" expanded="false" />
-            <element signature="e#301#302#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="140" column="27" lean-forward="false" selection-start-line="140" selection-start-column="27" selection-end-line="140" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="64" column="6" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="68" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/TaskThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#240#241#0" expanded="false" />
-            <element signature="e#265#266#0" expanded="false" />
-            <element signature="e#302#303#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/synchroniz/TaskTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion1Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion1Thread.java" />
     <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion1ThreadB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1406,7 +1381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1414,7 +1388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1422,7 +1395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1430,7 +1402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1438,7 +1409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1446,7 +1416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1454,10 +1423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1465,10 +1430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1476,7 +1437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10">
           <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1484,12 +1444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1497,19 +1451,293 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/conclusion/Conclusion3Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="364">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/staticsynchronize/ServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/BMPGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6672">
+          <caret line="58" column="19" lean-forward="false" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/array/CountingGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/book/date0605/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/deadlock/DealThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/deadlock/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/Run1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/innersynchronize/OutClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="69" lean-forward="false" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/PrintString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/AddCountThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter2/volatileDemo/AddCountThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/Test/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/Test/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#217#218#0" expanded="false" />
+            <element signature="e#249#250#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ValueObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="76" lean-forward="false" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Custom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/book/data0612/p531.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

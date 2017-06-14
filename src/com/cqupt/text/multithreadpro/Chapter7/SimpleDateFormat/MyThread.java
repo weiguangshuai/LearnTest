@@ -20,11 +20,12 @@ public class MyThread extends Thread {
     @Override
     public void run() {
         try {
-            Date dateref = simpleDateFormat.parse(dateString);
-            String newDateString = simpleDateFormat.format(dateref).toString();
+            Date dateref = DateTools.parse("yyyy-MM-dd", dateString);
+            String newDateString = DateTools.format("yyyy-MM-dd", dateref);
             if (!newDateString.equals(dateString)) {
                 System.out.println("ThreadName=" + this.getName()
-                        + "报错了 日期字符串：" + dateString + "转化成的日期为：" + newDateString);
+                        + "报错了 日期字符串：" + dateString +
+                        "转化成的日期为：" + newDateString);
             }
         } catch (ParseException e) {
             e.printStackTrace();

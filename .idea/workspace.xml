@@ -2,32 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="495b2ae7-2cf9-4953-b073-924f325e26c6" name="Default" comment="j">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/book/data0612/p565.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chaper6/LazyLoad.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chaper6/LazyLoadRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chaper6/LazyLoadThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule/MyTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/MyTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/MyTestA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/TestA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/Run.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/Run1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/Run2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/Run3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/ThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/ThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/ThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/Tools.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyService1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyService2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/Run1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/Run2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/ThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/ThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/ThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/MyThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/MyThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/fairLock/RunFair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/fairLock/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyService2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/Run1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/Run2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadAA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadBB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/DateTools.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cqupt/text/book/data0612/p531.java" afterPath="$PROJECT_DIR$/src/com/cqupt/text/book/data0612/p531.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/MyThread.java" afterPath="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/MyThread.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,23 +60,126 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Run3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/Run3.java">
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/fairLock/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunFair.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/fairLock/RunFair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/MyThread.java">
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="26" column="79" lean-forward="false" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
+            <state relative-caret-position="52">
+              <caret line="34" column="23" lean-forward="false" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/ThreadA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/ThreadB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThreadA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/MyThreadA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <folding>
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThreadB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/MyThreadB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,38 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/MyList.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/communication/sizeDemo/Run.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ValueObject.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Product.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Custom.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadP.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadC.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Run.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/cAndP/C.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/cAndP/ThreadP.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/cAndP/ThreadC.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/cAndP/Run.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/cAndP/P.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/P.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/C.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/PThread.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/CThread.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/MyStackRun.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/WriteData.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/ReadData.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/ThreadWrite.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/ThreadRead.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/Run.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule/MyTask.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/MyTask.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/MyTestA.java" />
-        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/TestA.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test1.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test2.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test3.java" />
@@ -154,7 +233,39 @@
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/Run2.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/MyThread.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/threadGroup/Run3.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/DateTools.java" />
         <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/Tools.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyService.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/Run1.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyService2.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadAA.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadBB.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/Run2.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyService1.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/Run1.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyService2.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/Run2.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/fairLock/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/fairLock/RunFair.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/MyThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/MyThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/Run.java" />
       </list>
     </option>
   </component>
@@ -242,12 +353,34 @@
               <option name="myItemId" value="multithreadpro" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter7" />
+              <option name="myItemId" value="GraphTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraphTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="threadGroup" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multithreadpro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReentrantReadWriteLock" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -273,7 +406,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter7" />
+              <option name="myItemId" value="Chapter4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,108 +431,12 @@
               <option name="myItemId" value="multithreadpro" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GraphTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GraphTest" />
+              <option name="myItemId" value="Chapter4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GraphTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GraphTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="p454" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GraphTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GraphTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data0612" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="p565.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GraphTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GraphTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data0612" />
+              <option name="myItemId" value="awaitUntil" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -431,6 +468,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1496973" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/workbench/idea/project/GraphTest/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyThread.java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -444,55 +482,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run3">
-    <configuration default="false" name="p565" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.cqupt.text.book.data0612.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.book.data0612.p565" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="GraphTest" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter7.threadGroup.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter7.threadGroup.Run" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="GraphTest" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Run (1)">
     <configuration default="false" name="Run1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter7.threadGroup.*" />
+          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter4.Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter7.threadGroup.Run1" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter4.Condition.Run1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -508,11 +506,11 @@
     <configuration default="false" name="Run2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter7.threadGroup.*" />
+          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter4.Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter7.threadGroup.Run2" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter4.Condition.Run2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -525,14 +523,54 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Run3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RunFair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter7.threadGroup.*" />
+          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter4.fairLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter7.threadGroup.Run3" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter4.fairLock.RunFair" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GraphTest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter4.awaitUntil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter4.awaitUntil.Run" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GraphTest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cqupt.text.multithreadpro.Chapter4.ReentrantReadWriteLock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.text.multithreadpro.Chapter4.ReentrantReadWriteLock.Run" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -932,19 +970,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.p565" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Run" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Run1" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Run2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Run3" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Run1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Run2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RunFair" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Run" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Run (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Run3" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Run2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Run1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Run" />
-        <item index="4" class="java.lang.String" itemvalue="Application.p565" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Run (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Run" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RunFair" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Run2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Run1" />
       </list>
     </recent_temporary>
   </component>
@@ -1012,12 +1050,12 @@
       <workItem from="1497398609467" duration="59000" />
       <workItem from="1497398685963" duration="10000" />
       <workItem from="1497398723680" duration="3341000" />
-      <workItem from="1497405908829" duration="5690000" />
+      <workItem from="1497405908829" duration="17031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="290422000" />
+    <option name="totallyTimeSpent" value="301763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1042,7 +1080,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3622951" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30819672" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4557377" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1137,231 +1175,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/cAndP/ThreadC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ValueObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/ThreadP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/cAndP/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/cAndP/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/cAndP/P.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/P.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/CThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/PThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="35" column="29" lean-forward="false" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/MyStackRun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1474">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/WriteData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/ReadData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/ThreadRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/customANDproduct/Custom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/stream/ThreadWrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule.java" />
-    <entry file="jar://D:/jdk/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4097">
-          <caret line="312" column="55" lean-forward="false" selection-start-line="312" selection-start-column="55" selection-end-line="312" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule/MyTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/MyTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="55" lean-forward="false" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/MyTestA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/TestA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter5/schedule2/Test6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chaper6/LazyLoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chaper6/LazyLoadThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1501,13 +1314,350 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/DateTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter7/SimpleDateFormat/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter3/ThreadLocal/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="26" column="79" lean-forward="false" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/Run1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#224#225#0" expanded="false" />
+            <element signature="e#264#265#0" expanded="false" />
+            <element signature="e#303#304#0" expanded="false" />
+            <element signature="e#339#340#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/MyService2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#226#227#0" expanded="false" />
+            <element signature="e#268#269#0" expanded="false" />
+            <element signature="e#307#308#0" expanded="false" />
+            <element signature="e#342#343#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#271#272#0" expanded="false" />
+            <element signature="e#310#311#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadAA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#230#231#0" expanded="false" />
+            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#349#350#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/ThreadBB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#229#230#0" expanded="false" />
+            <element signature="e#273#274#0" expanded="false" />
+            <element signature="e#312#313#0" expanded="false" />
+            <element signature="e#348#349#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/reentrantLock/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/Run1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#374#375#0" expanded="false" />
+            <element signature="e#406#407#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyService1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyService2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#228#229#0" expanded="false" />
+            <element signature="e#272#273#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/MyThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#228#229#0" expanded="false" />
+            <element signature="e#272#273#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/Condition/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/fairLock/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/fairLock/RunFair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="34" column="23" lean-forward="false" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/MyThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/MyThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/awaitUntil/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cqupt/text/multithreadpro/Chapter4/ReentrantReadWriteLock/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -2,6 +2,8 @@ package com.cqupt.text.book.data0612;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashSet;
 import java.util.List;
 
 /**
@@ -18,6 +20,14 @@ public class p531 {
     public void go() {
         getSongs();
         System.out.println(songList);
+        System.out.println("+++++++++");
+        Collections.sort(songList);
+        System.out.println(songList);
+        System.out.println("---------");
+        HashSet<String> hashSet = new HashSet<>();
+        hashSet.addAll(songList);
+        System.out.println(hashSet);
+        System.out.println("=========");
     }
 
     private void getSongs() {
@@ -39,4 +49,5 @@ public class p531 {
         String[] tokens = line.split("/");
         songList.add(tokens[0]);
     }
+
 }

@@ -1,7 +1,5 @@
 package com.cqupt.text.polymorphism;
 
-import java.io.File;
-
 /**
  * @author weigs
  * @date 2017/6/7 0007

@@ -9,12 +9,11 @@ import java.util.LinkedHashSet;
  */
 public class AutoBoxingArrays {
     public static void main(String[] args) {
-        Integer[][] a = {{1,1,1,1},{1,1,1}};
+        Integer[][] a = {{1, 1, 1, 1}, {1, 1, 1}};
         System.out.println(Arrays.deepToString(a));
 
         Integer[] b = new Integer[4];
-        Arrays.fill(b,1);
+        Arrays.fill(b, 1);
         System.out.println(Arrays.deepToString(b));
-
     }
 }
